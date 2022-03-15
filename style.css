@@ -1,0 +1,36 @@
+body{
+  background-image: url("https://s3.envato.com/files/305882735/2020_01_05_113359.jpg");
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 3rem;
+  color: blue;
+  text-decoration: underline;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.container1{
+  padding: 0 3.5% 0 0;
+}
+li{
+  font-size: 1.2rem;
+}
+.container2{
+  padding: 6.5% 0 0 0;
+}
+input{
+  text-align: center;
+  border-radius: 20px;
+  border: solid 1px blue;
+}
+button{
+  font-size: 1.1rem;
+  border-radius: 7px;
+  border: none;
+  background-color: black;
+  color: white;
+}
